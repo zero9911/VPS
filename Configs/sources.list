@@ -1,0 +1,15 @@
+deb [arch=all] http://ftp.uk.debian.org/debian/ wheezy main contrib non-free
+deb-src [arch=all] http://ftp.uk.debian.org/debian/ wheezy main contrib non-free
+
+deb [arch=all] http://ftp.uk.debian.org/debian/ wheezy-updates main contrib non-free
+deb-src [arch=all] http://ftp.uk.debian.org/debian/ wheezy-updates main contrib non-free
+
+deb [arch=all] http://security.debian.org/ wheezy/updates main contrib non-free
+deb-src [arch=all] http://security.debian.org/ wheezy/updates main contrib non-free
+
+# dotdeb jessie all
+deb http://packages.dotdeb.org wheezy all
+deb-src http://packages.dotdeb.org wheezy all
+
+# webmin sarge contrib
+deb http://download.webmin.com/download/repository sarge contrib
