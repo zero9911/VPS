@@ -12,7 +12,7 @@ wget https://raw.githubusercontent.com/zero9911/script/master/vps.sh && chmod +x
 
 FOR INSTALL SCRIPT
 
-wget https://raw.githubusercontent.com/zero9911/vps/master/Debian7.sh && chmod +x Debian7.sh && ./Debian7.sh
+wget https://raw.githubusercontent.com/zero9911/vps/master/Debian.sh && chmod +x Debian.sh && ./Debian.sh
 
 FOR INSTALL SQUID3/PROXY ONLY
 
